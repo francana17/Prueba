@@ -57,7 +57,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### Docker
+### Docker (Preferiblemente)
 
 ```bash
 docker build -t simulacion-app .
