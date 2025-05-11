@@ -75,9 +75,8 @@ Luego accede a http://localhost:8501 en tu navegador.
 
 ## 🧹 Limpieza
 
-- Puedes eliminar las carpetas `__pycache__/` si lo deseas, ya que son generadas automáticamente.
-- Los archivos `__init__.py` son necesarios para la correcta importación de módulos en Python.
+- Se pueden eliminar las carpetas `__pycache__/`,son generadas automáticamente.
 
 ---
 
-© 2025 - Simulación para prueba técnica.
+© 2025 - Simulación para prueba técnica Francisco Canales Navajas.
